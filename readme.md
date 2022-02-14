@@ -18,8 +18,8 @@ First of all, you have to run
 
 and then to execute the code
 
-### node redeemService.js
+### npm run eslint
 
 If you want to run the tests
 
-### npm test
+### npm run test
